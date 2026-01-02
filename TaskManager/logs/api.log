@@ -1,0 +1,21 @@
+[2026-01-02 22:38:57,269] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2026-01-02 22:38:59,233] WARNING django.request: Not Found: /
+[2026-01-02 22:39:05,592] WARNING django.request: Not Found: /api/v1/womenlist
+[2026-01-02 22:39:12,024] INFO main.views: GET /tasks by user=AnonymousUser
+[2026-01-02 22:39:12,196] ERROR django.request: Internal Server Error: /api/v1/tasks/
+[2026-01-02 22:44:03,246] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2026-01-02 22:44:06,727] INFO main.views: GET /tasks by user=AnonymousUser
+[2026-01-02 22:44:24,037] WARNING django.request: Not Found: /api/v1/womenlist
+[2026-01-02 22:44:27,628] INFO main.views: GET /tasks by user=AnonymousUser
+[2026-01-02 22:44:37,766] INFO main.views: GET /tasks by user=AnonymousUser
+[2026-01-02 22:44:37,769] WARNING django.request: Not Found: /api/v1/tasks/1/
+[2026-01-02 22:44:46,378] INFO main.views: GET /tasks by user=AnonymousUser
+[2026-01-02 22:44:46,382] WARNING django.request: Not Found: /api/v1/tasks/5/
+[2026-01-02 22:44:51,201] INFO main.views: GET /tasks by user=AnonymousUser
+[2026-01-02 22:45:23,594] INFO main.views: GET /tasks by user=AnonymousUser
+[2026-01-02 22:45:32,585] INFO main.views: GET /tasks by user=AnonymousUser
+[2026-01-02 22:47:48,547] WARNING django.request: Method Not Allowed: /api/v1/register/
+[2026-01-02 22:48:28,399] WARNING django.request: Method Not Allowed: /api/v1/token/
+[2026-01-02 23:00:37,981] INFO main.views: POST /tasks by user=admin
+[2026-01-02 23:00:37,984] INFO main.views: Task created id=8 by user=admin
+[2026-01-02 23:00:46,044] INFO main.views: GET /tasks by user=AnonymousUser
