@@ -18,7 +18,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/Nahlebnick/CollocOS.git
-   cd todo-list-api
+   cd CollocOS
 
 2. Клонируйте репозиторий:
    ```bash
